@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hello 👋
+I am a UCSC student who takes game classes for fun. Play my game! 
 
+Projects: [The New World](ebashta.github.io/index)
 <!--
 **ebashta/ebashta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
