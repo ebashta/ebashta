@@ -1,4 +1,4 @@
-## Hello 👋
+## ebashta.github.io 👋
 I am a UCSC student who takes game classes for fun. Play my game! 
 
 Projects: [The New World](ebashta.github.io/index)
